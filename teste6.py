@@ -1,5 +1,5 @@
 import unittest
-from desafio_6 import WordSquare
+from DESAFIO6 import WordSquare
 
 
 def caso_1():
